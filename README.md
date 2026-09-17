@@ -1,4 +1,6 @@
 # what this repository for
 this is a repo for telling you how to create your first repo.
-# Setup
-First you need to look at the left top of your github home page it will have a button name "NEW" and you need to click that button and it will turn page to https://github.com/new 
+## Setup
+First you need to look at the left top of your github home page it will have a button name "NEW" and you need to click that button and it will turn page to https://github.com/new this is page that where you can create your first repo.So first we can see a box that name "Repository name"this is where you can name the repo(necessary).Sencond you will see a discription box at down you can write what dose this repo do in here(optional).Then you scroll down you will see a huge frame name "Configuration" this is where you choose README,LICENSE,Choose visibility,and gitignore.First you will se a box name "Choose visibility",where you can decide whether it public or private.Than you will see a box name "Add README" READMEs can be used as longer descriptions.Then you will see a box name"Add .gitignore" .gitignore tells git which files not to track.last you will see "Add license" Licenses explain how others can use your code.
+## hint
+the license deside is very important so you can go to https://choosealicense.com/ this is where you can easily choose your license like MIT License a short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
